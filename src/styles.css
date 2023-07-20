@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+}
+
+tr,
+th,
+td {
+  border: 2px solid black;
+  padding: 1em;
+}
